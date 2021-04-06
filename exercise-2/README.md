@@ -26,3 +26,7 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+
+![This is an independent cat](C:/Users/lizeng/Documents/Github/ch04-git-basics/exercise-2/kitty.jpg)
+
