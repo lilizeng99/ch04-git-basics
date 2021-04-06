@@ -24,8 +24,11 @@ many good editors for markdown.
 
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
-a. milk tea
+
+a. milk tea -
+
 b. pork sausage
+
 c. custard cake
 
 6. Using your terminal, add and commit the changes you've made to your
